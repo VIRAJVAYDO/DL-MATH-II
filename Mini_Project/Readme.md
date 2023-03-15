@@ -4,7 +4,7 @@ Team Member: Virajkumar Tank (101411542), Kautuk Udavant (301072587)
              
 For the GITHUB PAGE we have created notebook file of diffrent types of graphs showing of various data visualization techniques using Matplotlib, Seaborn, Plotly, and Cufflinks libraries.
 
-Github_Page_Link : https://virajvaydo.github.io/Github_Page/Git_Pagess.html
+Github_Page_Link : https://virajvaydo.github.io/DL-MATH-II/Mini_Project/Git_Page/docs/Git_Pagess.html
 
 
 We have taken existing dataset from below provided link to generate STREAMLIT APP.
